@@ -13,6 +13,7 @@ class MainActivityTest {
     @Test
     fun testUserInterface() {
         val scenario = ActivityScenario.launch(MainActivity::class.java);
+
         val normalDay = "1";
         val normalMonth = "1";
         val normalYear = "1111";

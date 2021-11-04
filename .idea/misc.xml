@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Huy/AndroidStudioProjects/bloc/DateTimeChecker/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Huy/AndroidStudioProjects/bloc/DateTimeChecker/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Huy/AndroidStudioProjects/bloc/DateTimeChecker/app/src/main/res/layout/activity_movie.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Huy/AndroidStudioProjects/bloc/DateTimeChecker/app/src/main/res/layout/fragment_directors.xml" value="0.1" />
+        <entry key="..\:/Users/Huy/AndroidStudioProjects/bloc/DateTimeChecker/app/src/main/res/layout/fragment_star_actors.xml" value="0.35260416666666666" />
       </map>
     </option>
   </component>
